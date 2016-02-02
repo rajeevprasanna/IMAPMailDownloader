@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.reactivemongo:reactivemongo-bson-macros_2.11:0.10.5.0.akka23:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.reactivemongo/reactivemongo-bson-macros_2.11/jars/reactivemongo-bson-macros_2.11-0.10.5.0.akka23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
