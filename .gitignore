@@ -1,0 +1,12 @@
+/target/*
+project/target/*
+project/project/target/config-classes/$70893f84efd16c170fa7.cache
+project/
+.idea/*
+.idea/.name
+
+*.class
+
+*.xml
+
+*.class
